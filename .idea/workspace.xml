@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64a30d27-0e78-4777-acd3-587229e0f4eb" name="Default Changelist" comment="" />
+    <list default="true" id="64a30d27-0e78-4777-acd3-587229e0f4eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +12,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration">
@@ -121,6 +126,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1nFr6hDglr46NE3YysKtzt2hebq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -176,12 +182,23 @@
       <option name="presentableId" value="Default" />
       <updated>1610996505473</updated>
       <workItem from="1610996506508" duration="2802000" />
-      <workItem from="1611193779735" duration="251000" />
+      <workItem from="1611193779735" duration="602000" />
+      <workItem from="1611242817802" duration="3074000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="996" y="521" key="Github.ShareDialog" timestamp="1611194405737">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="996" y="521" key="Github.ShareDialog/0.23.1920.1008@0.23.1920.1008" timestamp="1611194405737" />
+    <state x="878" y="329" key="Github.UntrackedFilesDialog" timestamp="1611194447589">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="878" y="329" key="Github.UntrackedFilesDialog/0.23.1920.1008@0.23.1920.1008" timestamp="1611194447589" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

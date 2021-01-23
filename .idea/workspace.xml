@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64a30d27-0e78-4777-acd3-587229e0f4eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Card.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/CardInstances.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Group.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/FileUploadController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/GroupsController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/LayoutController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/OrgController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/cardInstanceController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/userAuthentication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/userController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/InstanceParams.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Layout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Org.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ViewType.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +32,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
@@ -149,6 +164,13 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/database/seeds" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/app/Http/Controllers" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -183,14 +205,36 @@
       <updated>1610996505473</updated>
       <workItem from="1610996506508" duration="2802000" />
       <workItem from="1611193779735" duration="602000" />
-      <workItem from="1611242817802" duration="3074000" />
+      <workItem from="1611242817802" duration="3329000" />
+      <workItem from="1611332501171" duration="4162000" />
+      <workItem from="1611368052831" duration="1298000" />
     </task>
+    <task id="LOCAL-00001" summary="Setup of database - checked out with shandev ok">
+      <created>1611247637412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611247637412</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Setup of database - checked out with shandev ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setup of database - checked out with shandev ok" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="855" y="377" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1611333848902">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="855" y="377" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.23.1920.1008@0.23.1920.1008" timestamp="1611333848902" />
+    <state x="724" y="291" key="CommitChangelistDialog2" timestamp="1611247637281">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="724" y="291" key="CommitChangelistDialog2/0.23.1920.1008@0.23.1920.1008" timestamp="1611247637281" />
     <state x="996" y="521" key="Github.ShareDialog" timestamp="1611194405737">
       <screen x="0" y="23" width="1920" height="1008" />
     </state>
@@ -199,6 +243,10 @@
       <screen x="0" y="23" width="1920" height="1008" />
     </state>
     <state x="878" y="329" key="Github.UntrackedFilesDialog/0.23.1920.1008@0.23.1920.1008" timestamp="1611194447589" />
+    <state x="717" y="355" key="Vcs.Push.Dialog.v2" timestamp="1611247641423">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="717" y="355" key="Vcs.Push.Dialog.v2/0.23.1920.1008@0.23.1920.1008" timestamp="1611247641423" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
